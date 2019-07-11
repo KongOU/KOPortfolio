@@ -30,8 +30,8 @@ puts "5 skills created"
     title: "Portfolio title: #{portfolio_item}",
     subtitle: "Ruby on Rails",
     body: "Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.",
-    main_image: "https://via.placeholder.com/600x400.png/09f/fff",
-    thumb_image: "https://via.placeholder.com/350x200.png/09f/fff"
+    main_image: "https://via.placeholder.com/600x400.png",
+    thumb_image: "https://via.placeholder.com/350x200.png"
   )
 end
 
@@ -40,8 +40,8 @@ end
     title: "Portfolio title: #{portfolio_item}",
     subtitle: "Angular",
     body: "Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.",
-    main_image: "https://via.placeholder.com/600x400.png/09f/fff",
-    thumb_image: "https://via.placeholder.com/350x200.png/09f/fff"
+    main_image: "https://via.placeholder.com/600x400.png",
+    thumb_image: "https://via.placeholder.com/350x200.png"
   )
 end
 
