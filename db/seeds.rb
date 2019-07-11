@@ -42,7 +42,7 @@ end
     body: "Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.",
     main_image: "https://via.placeholder.com/600x400.png",
     thumb_image: "https://via.placeholder.com/350x200.png"
-  )
+  ) 
 end
 
 puts "9 porfolio itmes created"
