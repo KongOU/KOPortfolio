@@ -15,4 +15,8 @@ module ApplicationHelper
       content_tag(:p, greeting, class: "source-greeting")
     end
   end
+
+  def copyright_helper
+    KongViewTool::Renderer.copyright "Kong Ou", "All rights reserved"
+  end
 end
